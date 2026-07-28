@@ -1,0 +1,24 @@
+body {
+    background-color: rgb(194, 22, 194);
+}
+
+h1 {
+    color: white;
+}
+
+.skills-section {
+    color: yellow;
+}
+
+#goals-heading {
+    color: rgb(254, 173, 173);
+}
+
+#my-interest {
+    border: 8px solid rgb(255, 11, 11);
+}
+
+#web-design {
+    border: 2px solid black;
+}
+
